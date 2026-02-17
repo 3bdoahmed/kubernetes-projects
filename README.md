@@ -29,4 +29,5 @@ Each project is organized in its own folder with application code, Dockerfiles, 
 
 ## Author
 
-**AbdelRahman Ahmed** – DevOps & Kubernetes Enthusiast
+**AbdelRahman Ahmed** – DevOps Enginner
+
